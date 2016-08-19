@@ -1,0 +1,6 @@
+{
+  "ignoreFiles": "./static/components/**",
+  "rules": {
+    "selector-no-id": true
+  }
+}
